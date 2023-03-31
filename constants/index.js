@@ -71,18 +71,20 @@ export const insights = [
 export const socials = [
   {
     name: 'twitter',
-    url: '/twitter.svg',
+    img: '/twitter.svg',
+    url: 'https://twitter.com/Rajdeeprvd'
   },
   {
     name: 'linkedin',
-    url: '/linkedin.svg',
+    img: '/linkedin.svg',
+    url: 'https://www.linkedin.com/in/rajdeep-sarkar-633648211/'
+
   },
   {
     name: 'instagram',
-    url: '/instagram.svg',
+    img: '/instagram.svg',
+    url: 'https://www.instagram.com/sarkarraj2000/'
+
   },
-  {
-    name: 'facebook',
-    url: '/facebook.svg',
-  },
+
 ];
